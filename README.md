@@ -13,4 +13,4 @@ The dashboard includes the following visual components:
   * Trend analysis for pricing strategy.
   * Data storytelling and presentation for stakeholders.<br><br>
 
-**P.S.** This project was built with the help [Alex The Analyst](https://www.youtube.com/@AlexTheAnalyst).
+**P.S.** This project was built with the help of [Alex The Analyst](https://www.youtube.com/@AlexTheAnalyst).
